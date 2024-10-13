@@ -1,4 +1,4 @@
-
+// This is a Student Class
 public class Student {
 		static int min_passing_marks;
 		static String degree;
